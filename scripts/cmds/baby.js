@@ -170,7 +170,7 @@ module.exports = {
       if (triggers.includes(raw)) {
         const greetings = [
           "Bolo baby 💬", "হুম? বলো 😺", "হ্যাঁ জানু 😚", "শুনছি বেবি 😘",
-          "এতো ডেকো না,প্রেম এ পরে যাবো তো🙈", "Boss বল boss😼",
+          "এতো ডেকো না,প্রেম এ পরে যাবো তো🙈", "Rudro Boss বল Rudro boss😼",
           "আমাকে ডাকলে ,আমি কিন্তু কিস করে দিবো😘", "দূরে যা, তোর কোনো কাজ নাই, শুধু bot bot করিস 😉😋🤣"
         ];
         const randomReply = greetings[Math.floor(Math.random() * greetings.length)];
