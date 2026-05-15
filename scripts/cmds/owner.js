@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'MAHBUB ULLASH',
+      name: 'SAKIL HASAN RUDRO  ',
       gender: 'Male',
       age: '21+',
-      height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/CYBER.ULLASH',
-      nick: 'ULLASH\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https://mahbub-ullash.cyberbot.top'
+      height: '5.10"',
+      facebookLink: 'Unknown ',
+      nick: 'RUDRO\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: Unknown'
     };
 
     const bold = 'https://files.catbox.moe/1dwo7j.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
